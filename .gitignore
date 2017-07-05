@@ -5,3 +5,5 @@ api/.settings/
 api/target/
 omod/target/
 *.iml
+
+.idea/
